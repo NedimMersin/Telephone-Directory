@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\refint\TelephoneDirectory.dll
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\PatikaDev\C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
